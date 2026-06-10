@@ -40,3 +40,13 @@ htmlcov/
 
 # Docker
 *.tar
+# Frontend
+frontend/node_modules
+
+# Backend
+backend/venv
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
